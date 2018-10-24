@@ -11,5 +11,4 @@ button.addEventListener('dblclick', () => {
 let button = document.getElementById('rotate');
 
 	button.addEventListener('click', () => {
-		body.classList.add('rotate')
-	})
+		body.classList.add('rotate')	})
