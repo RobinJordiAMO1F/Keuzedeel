@@ -1,0 +1,24 @@
+body {
+	font-family: arial;
+	width: 80%;
+	margin: 0 auto;
+	background: #4D9B4F;
+}
+
+
+header {
+	border: 3px;
+	background-color: #B4A8A8;
+	text-align: center;
+}
+main{ 
+	background-color: #F90C0C;
+}
+
+footer{
+	text-align: center;
+
+}
+.rotate{
+	transform: rotate(90deg);
+}
